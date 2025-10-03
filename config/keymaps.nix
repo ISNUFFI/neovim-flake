@@ -14,5 +14,12 @@
         silent = true;
       };
     }
+    {
+      key = "<C-l>";
+      action = ":nohl<cr>";
+      options = {
+        silent = true;
+      };
+    }
   ];
 }
