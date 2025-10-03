@@ -4,6 +4,6 @@
     softtabstop = 2;
     shiftwidth = 2;
     expandtab = true;
-    colorcolumn = 80;
+    colorcolumn = "80";
   };
 }
