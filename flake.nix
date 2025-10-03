@@ -41,8 +41,6 @@
             default = nvim;
             nvim = nvim;
           };
-
-          nvim = nvim;
         };
     };
 }
