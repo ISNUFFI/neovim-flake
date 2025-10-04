@@ -11,7 +11,6 @@
     wrap = false;
     swapfile = false;
     backup = false;
-    undodir = "~/.vim/undodir";
     undofile = true;
     hlsearch = false;
     incsearch = true;
