@@ -20,5 +20,7 @@
         key = "<M-l>";
       }
     ];
+
+    settings.no_mappings = 1;
   };
 }
