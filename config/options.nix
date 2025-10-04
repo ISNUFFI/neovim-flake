@@ -11,7 +11,7 @@
     wrap = false;
     swapfile = false;
     backup = false;
-    undodir = "os.getenv('HOME') .. '/.vim/undodir'";
+    undodir = "~/.vim/undodir";
     undofile = true;
     hlsearch = false;
     incsearch = true;
