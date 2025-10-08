@@ -16,6 +16,7 @@
         "<leader>vca" = "code_action";
         "<leader>vrr" = "references";
         "<leader>vrn" = "rename";
+        "<leader>f" = "format";
       };
 
       extra = [
