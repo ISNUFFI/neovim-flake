@@ -7,5 +7,6 @@
     ./servers/templ.nix
     ./servers/nil.nix
     ./servers/pyright.nix
+    ./servers/cssls.nix
   ];
 }
