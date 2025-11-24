@@ -23,7 +23,7 @@
         {
           mode = "i";
           key = "<C-h>";
-          action = "function() vim.lsp.buf.signature_help() end";
+          action = "<CMD>lua vim.lsp.buf.signature_help()<CR>";
         }
       ];
     };
