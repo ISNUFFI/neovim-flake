@@ -6,9 +6,9 @@
     { mode = "n"; key = "J"; action = "mzJ`z"; }
     { mode = "n"; key = "<C-d>"; action = "<C-d>zz"; }
     { mode = "n"; key = "<C-u>"; action = "<C-u>zz"; }
-    { key = "<leader>p"; action = "[[\"_dP]]"; }
-    { mode = ["n" "v"]; key = "<leader>y"; action = "[[\"+y]]"; }
-    { mode = "n"; key = "<leader>Y"; action = "[[\"+Y]]"; }
-    { mode = ["n" "v"]; key = "<leader>d"; action = "[[\"_d]]"; }
+    { key = "<leader>p"; action = "\"_dP"; }
+    { mode = ["n" "v"]; key = "<leader>y"; action = "\"+y"; }
+    { mode = "n"; key = "<leader>Y"; action = "\"+Y"; }
+    { mode = ["n" "v"]; key = "<leader>d"; action = "\"_d"; }
   ];
 }
