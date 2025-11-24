@@ -8,5 +8,6 @@
     ./servers/nil.nix
     ./servers/pyright.nix
     ./servers/cssls.nix
+    ./servers/javascript.nix
   ];
 }
