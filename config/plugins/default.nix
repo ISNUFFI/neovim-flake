@@ -9,5 +9,6 @@
     ./treesitter.nix
     ./tmux-navigator.nix
     ./undotree.nix
+    ./vim-be-good.nix
   ];
 }
