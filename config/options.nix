@@ -15,7 +15,7 @@
     hlsearch = false;
     incsearch = true;
     termguicolors = true;
-    background = "dark";
     scrolloff = 10;
+    background = "dark";
   };
 }
