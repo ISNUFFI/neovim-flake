@@ -5,6 +5,7 @@
     ./devicons.nix
     ./fugitive.nix
     ./harpoon.nix
+    ./oil.nix
     ./telescope.nix
     ./treesitter.nix
     ./tmux-navigator.nix
