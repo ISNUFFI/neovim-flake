@@ -2,6 +2,7 @@
   imports = [
     ./commentary.nix
     ./cmp.nix
+    ./dap.nix
     ./devicons.nix
     ./fugitive.nix
     ./harpoon.nix
