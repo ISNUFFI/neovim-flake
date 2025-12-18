@@ -6,6 +6,7 @@
     ./servers/html.nix
     ./servers/templ.nix
     ./servers/nil.nix
+    ./servers/ols.nix
     ./servers/pyright.nix
     ./servers/cssls.nix
     ./servers/javascript.nix
