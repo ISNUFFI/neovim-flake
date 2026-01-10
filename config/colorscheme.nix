@@ -7,6 +7,9 @@
         dark = "dragon";
         light = "lotus";
       };
+      commentStyle = {
+        italic = false;
+      };
     };
   };
 }
