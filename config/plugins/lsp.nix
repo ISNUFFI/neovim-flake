@@ -5,7 +5,7 @@
     keymaps = {
       diagnostic = {
         "[d" = "goto_next";
-        "]d" = "goto_next";
+        "]d" = "goto_prev";
         "<leader>vd" = "open_float";
       };
 
